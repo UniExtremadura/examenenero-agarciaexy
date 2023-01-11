@@ -15,6 +15,7 @@ public class DateUtils {
 
     //Simulaciones examen Enero
     //Simulacion de la implementacion del caso de uso 18 - Integracion y test - Integrate each subsistem - AS
+    //Simulacion de la implementacion del caso de uso 18 - Integracion y test - Test and evaluate - AS
 
     //private static final String FORMAT_DATE="dd-MMM-yyyy,hh:mm aa";
     private static final String FORMAT_TIME = "HH:mm:ss:SSS";
