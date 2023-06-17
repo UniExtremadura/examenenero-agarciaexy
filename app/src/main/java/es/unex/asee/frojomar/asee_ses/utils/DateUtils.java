@@ -16,7 +16,7 @@ public class DateUtils {
     //Simulaciones examen Enero
     //Simulacion de la implementacion del caso de uso 18 - Integracion y test - Integrate each subsistem - AS
     //Simulacion de la implementacion del caso de uso 18 - Integracion y test - Test and evaluate - AS
-    //Simulacion de la implementacion del caso de uso 18 - Integracion y test - Test and evaluate - DJ
+    //Simulacion de la implementacion del caso de uso 18 - Integracion y test - Test and evaluate - DJ HECHO
     //Simulacion de la implementacion del caso de uso 21 - Implementacion - Implements components - AS
     //Simulacion de la implementacion del caso de uso 21 - Implementacion - Implements components - DS
     //Simulacion de la implementacion del caso de uso 21 - Implementacion - Test components - DS
