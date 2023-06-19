@@ -22,6 +22,8 @@ public class DateUtils {
     //Simulacion de la implementacion del caso de uso 21 - Implementacion - Test components - DS
     //Simulacion de la implementacion del caso de uso 21 - Implementacion - Test components - DJ HECHO
 
+    //PRUEBA 1
+
     //private static final String FORMAT_DATE="dd-MMM-yyyy,hh:mm aa";
     private static final String FORMAT_TIME = "HH:mm:ss:SSS";
     private static final String FORMAT_DATE = "d-MMM-yyyy,HH:mm:ss aa";
